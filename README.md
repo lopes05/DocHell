@@ -1,17 +1,11 @@
-DocHell
-=======
+# Linux
 
-Modelo de trabalho para faculdade
+## Compilando
 
+Para compilar o texto através do Makefile digite:
 
-Dependências:
-============
+  ```sh
+	  make clean
+	  make
+  ```
 
-- texlive-latex-base
-- texlive-latex-recommended
-- texlive-latex-extra
-- texlive-base
-- texlive-publishers
-- texlive-fonts-recommended
-- texlive-generic-recommended
-- texlive-lang-german
